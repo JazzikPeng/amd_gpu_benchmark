@@ -1,0 +1,140 @@
+{
+    "categories": [
+        {
+            "category": "All_Beauty",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_All_Beauty.jsonl.gz"
+        },
+        {
+            "category": "Amazon_Fashion",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Amazon_Fashion.jsonl.gz"
+        },
+        {
+            "category": "Appliances",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Appliances.jsonl.gz"
+        },
+        {
+            "category": "Arts_Crafts_and_Sewing",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Arts_Crafts_and_Sewing.jsonl.gz"
+        },
+        {
+            "category": "Automotive",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Automotive.jsonl.gz"
+        },
+        {
+            "category": "Baby_Products",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Baby_Products.jsonl.gz"
+        },
+        {
+            "category": "Beauty_and_Personal_Care",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Beauty_and_Personal_Care.jsonl.gz"
+        },
+        {
+            "category": "Books",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Books.jsonl.gz"
+        },
+        {
+            "category": "CDs_and_Vinyl",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_CDs_and_Vinyl.jsonl.gz"
+        },
+        {
+            "category": "Cell_Phones_and_Accessories",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Cell_Phones_and_Accessories.jsonl.gz"
+        },
+        {
+            "category": "Clothing_Shoes_and_Jewelry",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Clothing_Shoes_and_Jewelry.jsonl.gz"
+        },
+        {
+            "category": "Digital_Music",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Digital_Music.jsonl.gz"
+        },
+        {
+            "category": "Electronics",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Electronics.jsonl.gz"
+        },
+        {
+            "category": "Gift_Cards",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Gift_Cards.jsonl.gz"
+        },
+        {
+            "category": "Grocery_and_Gourmet_Food",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Grocery_and_Gourmet_Food.jsonl.gz"
+        },
+        {
+            "category": "Handmade_Products",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Handmade_Products.jsonl.gz"
+        },
+        {
+            "category": "Health_and_Household",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Health_and_Household.jsonl.gz"
+        },
+        {
+            "category": "Health_and_Personal_Care",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Health_and_Personal_Care.jsonl.gz"
+        },
+        {
+            "category": "Home_and_Kitchen",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Home_and_Kitchen.jsonl.gz"
+        },
+        {
+            "category": "Industrial_and_Scientific",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Industrial_and_Scientific.jsonl.gz"
+        },
+        {
+            "category": "Kindle_Store",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Kindle_Store.jsonl.gz"
+        },
+        {
+            "category": "Magazine_Subscriptions",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Magazine_Subscriptions.jsonl.gz"
+        },
+        {
+            "category": "Movies_and_TV",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Movies_and_TV.jsonl.gz"
+        },
+        {
+            "category": "Musical_Instruments",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Musical_Instruments.jsonl.gz"
+        },
+        {
+            "category": "Office_Products",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Office_Products.jsonl.gz"
+        },
+        {
+            "category": "Patio_Lawn_and_Garden",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Patio_Lawn_and_Garden.jsonl.gz"
+        },
+        {
+            "category": "Pet_Supplies",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Pet_Supplies.jsonl.gz"
+        },
+        {
+            "category": "Software",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Software.jsonl.gz"
+        },
+        {
+            "category": "Sports_and_Outdoors",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Sports_and_Outdoors.jsonl.gz"
+        },
+        {
+            "category": "Subscription_Boxes",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Subscription_Boxes.jsonl.gz"
+        },
+        {
+            "category": "Tools_and_Home_Improvement",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Tools_and_Home_Improvement.jsonl.gz"
+        },
+        {
+            "category": "Toys_and_Games",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Toys_and_Games.jsonl.gz"
+        },
+        {
+            "category": "Video_Games",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Video_Games.jsonl.gz"
+        },
+        {
+            "category": "Unknown",
+            "meta_download_link": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Unknown.jsonl.gz"
+        }
+    ]
+}

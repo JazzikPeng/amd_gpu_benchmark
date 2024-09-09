@@ -1,0 +1,3 @@
+- Use Amazon-Review Dataset to build a classification task
+- Sample 10 rows from each category in amazon_review_data to form the classification dataset.
+- Classify main_category using product title and subtitle. 
